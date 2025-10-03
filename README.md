@@ -1,9 +1,5 @@
 # Airbnb Data Analysis Environment Setup
 
-## Virtual Environment Created Successfully! 🎉
-
-Your virtual environment is now set up and ready to run the Airbnb data analysis notebook.
-
 ### Environment Details:
 - **Python Version**: 3.13.1
 - **Environment Type**: Virtual Environment (.venv)
