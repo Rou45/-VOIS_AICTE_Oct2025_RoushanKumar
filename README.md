@@ -1,4 +1,4 @@
-# Airbnb Data Analysis Environment Setup
+# Airbnb Data Analysis 
 
 ### Environment Details:
 - **Python Version**: 3.13.1
